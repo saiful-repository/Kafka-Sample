@@ -9,14 +9,6 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleConsumer", "ConsoleC
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebConsumer", "WebConsumer\WebConsumer.csproj", "{479457FC-661B-4FA0-BB42-87DBA91AAD54}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Screenshot", "Screenshot", "{1F79E4BE-FFB8-4D22-9762-E345428886A5}"
-	ProjectSection(SolutionItems) = preProject
-		C:\Users\saifu\OneDrive\Desktop\Kafka\Kafka_Topic.jpg = C:\Users\saifu\OneDrive\Desktop\Kafka\Kafka_Topic.jpg
-		C:\Users\saifu\OneDrive\Desktop\Kafka\Message_Console_Consumer.jpg = C:\Users\saifu\OneDrive\Desktop\Kafka\Message_Console_Consumer.jpg
-		C:\Users\saifu\OneDrive\Desktop\Kafka\Message_Sender.jpg = C:\Users\saifu\OneDrive\Desktop\Kafka\Message_Sender.jpg
-		C:\Users\saifu\OneDrive\Desktop\Kafka\Message_Web_Consumer.jpg = C:\Users\saifu\OneDrive\Desktop\Kafka\Message_Web_Consumer.jpg
-	EndProjectSection
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
