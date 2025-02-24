@@ -27,6 +27,8 @@ This setup ensures efficient testing of message processing with multiple consume
 
 **Console Application**
 
+## Screenshot of message distribution between two consumers
+
 ## Kafka Topic Configuration with Two Partitions
 ![My Screenshot](Publisher/Screenshot/Kafka_Topic.jpg)
 
