@@ -1,0 +1,42 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35707.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Publisher", "Publisher\Publisher.csproj", "{65B14AB2-EBA7-47C6-9C86-B5E3ECACC1A1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleConsumer", "ConsoleConsumer\ConsoleConsumer.csproj", "{325DA75A-8D7B-429B-A966-1A3DF915CEA2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebConsumer", "WebConsumer\WebConsumer.csproj", "{479457FC-661B-4FA0-BB42-87DBA91AAD54}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Screenshot", "Screenshot", "{1F79E4BE-FFB8-4D22-9762-E345428886A5}"
+	ProjectSection(SolutionItems) = preProject
+		C:\Users\saifu\OneDrive\Desktop\Kafka\Kafka_Topic.jpg = C:\Users\saifu\OneDrive\Desktop\Kafka\Kafka_Topic.jpg
+		C:\Users\saifu\OneDrive\Desktop\Kafka\Message_Console_Consumer.jpg = C:\Users\saifu\OneDrive\Desktop\Kafka\Message_Console_Consumer.jpg
+		C:\Users\saifu\OneDrive\Desktop\Kafka\Message_Sender.jpg = C:\Users\saifu\OneDrive\Desktop\Kafka\Message_Sender.jpg
+		C:\Users\saifu\OneDrive\Desktop\Kafka\Message_Web_Consumer.jpg = C:\Users\saifu\OneDrive\Desktop\Kafka\Message_Web_Consumer.jpg
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{65B14AB2-EBA7-47C6-9C86-B5E3ECACC1A1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{65B14AB2-EBA7-47C6-9C86-B5E3ECACC1A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{65B14AB2-EBA7-47C6-9C86-B5E3ECACC1A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{65B14AB2-EBA7-47C6-9C86-B5E3ECACC1A1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{325DA75A-8D7B-429B-A966-1A3DF915CEA2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{325DA75A-8D7B-429B-A966-1A3DF915CEA2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{325DA75A-8D7B-429B-A966-1A3DF915CEA2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{325DA75A-8D7B-429B-A966-1A3DF915CEA2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{479457FC-661B-4FA0-BB42-87DBA91AAD54}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{479457FC-661B-4FA0-BB42-87DBA91AAD54}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{479457FC-661B-4FA0-BB42-87DBA91AAD54}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{479457FC-661B-4FA0-BB42-87DBA91AAD54}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
